@@ -1,0 +1,14 @@
+html,body,div{ 
+margin:0; 
+padding:0; 
+height:100%; 
+position:relative; 
+} 
+
+.all-middle1{ 
+width:350px; 
+height:220px; 
+background-color:#69F; 
+top:50%; 
+margin:-100px auto 0; 
+}
